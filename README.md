@@ -59,7 +59,7 @@ Process:
 ### Findings: 
 `1_national_findings_210823.csv`: Contains the results of the regression analysis used to analyze the national dataset, while holding 17 variables constant. This CSV is found in the `findings/national_findings` directory.
 
-`1_metro_findings_200823.csv`: Contains the results of the regression analysis used to analyze individual metros. The CSV contains the four racial and ethnic demographics of each metro, along with the categorized results column, a note indicating if the findings are reliable, a note detailing if the findings is considered a disparity, and the odds ratio. To filter for all 89 metros that produced a statistically significant disparity, filter column “reliable_note” for statistically significant disparity. This CSV is found in the `findings/metro_findings directory`.
+`1_metro_findings_200823.csv`: Contains the results of the regression analysis used to analyze individual metros. The CSV contains the four racial and ethnic demographics of each metro, along with the categorized results column, a note indicating if the findings are reliable, a note detailing if the findings is considered a disparity, and the odds ratio. To filter for all 89 metros that produced a statistically significant disparity, filter column “reliable_note” for statistically significant disparity. This CSV is found in the `findings/metro_findings` directory.
 
  `1_lender_finding_file_TKTK`: Contains the results of the regression analysis used to analyze individual lenders. The dataset contains the findings only of the lenders that produced statistically significant disparities and were featured in The Markup story, “SIDEBAR Title.”  This CSV is found in the findings/lender_findings directory.
  
