@@ -1,6 +1,6 @@
 ### How we analyzed bias in mortgage denials: 
 
-This repository contains the code and data needed to reproduce the findings featured in our stories, [The Secret Bias Hidden in Mortgage- Approval Algorithms](https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms) and “sidebar link.”
+This repository contains the code and data needed to reproduce the findings featured in our stories, [The Secret Bias Hidden in Mortgage-Approval Algorithms](https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms) and “sidebar link.”
 
 Our methodology is described in [How We Investigated Racial Disparities in Federal Mortgage Data](https://themarkup.org/show-your-work/2021/08/25/how-we-investigated-racial-disparities-in-federal-mortgage-data)
 
