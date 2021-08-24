@@ -2,7 +2,7 @@
 
 This repository contains the code and data needed to reproduce the findings featured in our stories, [The Secret Bias Hidden in Mortgage- Approval Algorithms](https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms) and “sidebar link.”
 
-Our methodology is described in [How We Investigated Racial Disparities in Federal Mortgage Data](www.themarkup.org)
+Our methodology is described in [How We Investigated Racial Disparities in Federal Mortgage Data](https://themarkup.org/show-your-work/2021/08/25/how-we-investigated-racial-disparities-in-federal-mortgage-data)
 
 The main federal mortgage dataset can be found on the Consumer Financial Protection Bureau’s website, and any supplemental data used for the analysis can be found in the data folder. 
 
